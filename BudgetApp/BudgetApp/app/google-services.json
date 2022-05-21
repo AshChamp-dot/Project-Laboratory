@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038145797661",
+    "project_id": "kotlinlogin-2cbef",
+    "storage_bucket": "kotlinlogin-2cbef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038145797661:android:b68054e10cbcf5027d50f4",
+        "android_client_info": {
+          "package_name": "com.instamobile.kotlinlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038145797661-v2cp6n7b5e0np67eac8pgeq62bhv2sou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-jEPsTPX4Q1SgqH48I4ZcHeTEMFORxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038145797661-v2cp6n7b5e0np67eac8pgeq62bhv2sou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

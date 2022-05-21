@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3B5999</color>
+    <color name="colorPrimaryDark">#3B5999</color>
+    <color name="colorAccent">#3B5999</color>
+    <color name="background_color">#F9F9F9</color>
+    <color name="background_color_reverse">#161a29</color>
+    <color name="green">#43A047</color>
+    <color name="textMain">#292929</color>
+    <color name="red">#E53935</color>
+    <color name="white">#FFF</color>
+
+
+    <color name="pieColor">#024265</color>
+    <color name="pieDark">#024265</color>
+    <color name="accentPie">#05af9b</color>
+
+    <color name="color_one">#fb7268</color>
+    <color name="color_white">#ededf2</color>
+    <color name="color_two">#E3E0E0</color>
+
+    <color name="R">#FFA726</color>
+    <color name="Python">#66BB6A</color>
+    <color name="CPP">#EF5350</color>
+    <color name="Java">#29B6F6</color>
+<!--    <color name="facebook_button_color">#3B5999</color>-->
+    <color name="loading_overlay_color">#1A525050</color>
+</resources>

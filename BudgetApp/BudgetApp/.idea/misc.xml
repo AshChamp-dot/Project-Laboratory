@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Downloads/android-login-screen-master/android-login-screen-master/app/src/main/res/layout/activity_add_transaction.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/User/Downloads/android-login-screen-master/android-login-screen-master/app/src/main/res/layout/activity_detailed.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/User/Downloads/android-login-screen-master/android-login-screen-master/app/src/main/res/layout/activity_main.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/User/Downloads/android-login-screen-master/android-login-screen-master/app/src/main/res/layout/activity_piechart.xml" value="0.1" />
+        <entry key="..\:/Users/User/Downloads/android-login-screen-master/android-login-screen-master/app/src/main/res/layout/activity_register.xml" value="0.11822916666666666" />
+        <entry key="..\:/Users/User/Downloads/android-login-screen-master/android-login-screen-master/app/src/main/res/layout/activity_transactionpage.xml" value="0.11822916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_transactionpage.xml" value="0.1421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
